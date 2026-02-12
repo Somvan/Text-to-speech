@@ -1,0 +1,7 @@
+{
+  "name": "T2S - Pro Text to Speech",
+  "description": "A high-quality, browser-based text-to-speech tool featuring professional voices, speed control, and a clean productivity-focused editor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
